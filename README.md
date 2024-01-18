@@ -1,6 +1,6 @@
 # Lista de tarefas com consumo de API
 
-![App](./src/images/App.png)
+![App](./src/images/app.png)
 
 Este repositório contém uma aplicação de uma lista de tarefas realizada com ReactJS.
 
